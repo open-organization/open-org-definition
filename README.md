@@ -4,5 +4,5 @@ The Open Organization Ambassadors at Opensource.com use files in this repository
 
 The most curent version is:
 
-1.0
+1.0  
 December 2016
