@@ -50,7 +50,7 @@ Open organizations are communal. Shared values and purpose guide participation i
 
 Version 1.0  
 Updated December 2016  
-The Open Organization Ambassadors at Opensource.com
+[The Open Organization Ambassadors at Opensource.com](https://opensource.com/open-organization/resources/meet-ambassadors)
 
 ## License
 
