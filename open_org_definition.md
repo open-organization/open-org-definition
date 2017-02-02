@@ -18,7 +18,7 @@ While every organization is different—and therefore every example of an open o
 * Collaboration
 * Community
 
-## Qualities of an Open Organization
+## Characteristics of an Open Organization
 
 Open organizations take many shapes. Their sizes, compositions, and missions vary. But the following five characteristics are the hallmarks of any open organization.
 
