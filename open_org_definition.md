@@ -42,6 +42,10 @@ In open organizations, transaprency looks like:
 
 * People value both success and failures for the lessons they provide.
 
+
+* Goals are public and explicit, and people working on projects clearly indicate roles and responsibilities to enhance accountability.
+
+
 ### Inclusivity
 
 Open organizations are inclusive. They not only welcome diverse points of view but also implement specific mechanisms for inviting multiple perspectives into dialog wherever and whenever possible. Interested parties and newcomers can begin assisting the organization without seeking express permission from each of its stakeholders (see also _collaboration_). Rules and protocols for participation are clear (see also _transparency_) and operate according to vetted and common standards.
