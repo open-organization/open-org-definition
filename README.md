@@ -8,5 +8,5 @@ The Open Organization Ambassadors at Opensource.com use files in this repository
 
 The [current version](https://opensource.com/open-organization/resources/open-org-definition) is:
 
-1.0  
-December 2016
+2.0  
+April 2016
