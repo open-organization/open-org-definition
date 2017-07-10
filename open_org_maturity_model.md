@@ -2,7 +2,7 @@
 
 ## About this document
 
-The Open Organization Maturity Model is a framework for helping your organization become more transparent, inclusive, adaptable, collaborative, and communal. It outlines steps that individuals, teams, and organizations can take to critically examine their organizational practices and chart their progress toward becoming a more open organization (as outlined in the Open Organization Definition).
+The Open Organization Maturity Model is a framework for helping your organization to become more transparent, inclusive, adaptable, collaborative, and communal. It outlines steps that individuals, teams, and organizations can take to critically examine their organizational practices and chart their progress toward becoming a more open organization (as outlined in the Open Organization Definition).
 
 All organizations are different, so they adopt open principles and practices to different degrees. This model's three-level design therefore aims both to assist organizations determining the relative degree to which they act openly—and to help them explore possibilities for becoming more so.
 
@@ -16,23 +16,23 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 - People recognize that leaders are making decisions that affect them but don't see a clear or obvious way of providing input on those decisions
 
-- Materials that are part of decision-making practices are available for review when the decision is final
+- Materials that are part of decision-making practices become available for review after the decision is final
 
 - Individuals and teams are comfortable sharing stories of successes, but not failures
 
 - Individuals and teams share resources in disconnected, fragmented, or individualized systems or repositories
 
-- Individuals and teams release data and resources to others, but do so without much explanation
+- Individuals and teams release data and resources to others, but without much explanation
 
 ### Level 2
 
 - Non-sensitive materials are accessible to all members of project teams according to clearly defined and shared formats and/or protocols
 
-- People feel like they know about—and are helping to shape—important decisions as those decisions are unfolding
+- People feel like they know about—and are helping to shape—most, but not all, important decisions as those decisions are unfolding
 
 - Materials that are part of decision-making practices are available at defined project milestones
 
-- Individuals and teams are comfortable sharing stories of successes and failures in retrospective fashion
+- Individuals and teams are comfortable sharing stories of successes *and* failures in retrospective fashion
 
 - Organization sponsors and promotes a shared repository for collective knowledge to which some participants can and do contribute
 
@@ -40,7 +40,7 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 ### Level 3
 
-- Non-sensitive materials are accessible to project team and organization at large (possibly outside the organization as well) according to clearly defined and shared formats and/or protocols
+- Non-sensitive materials are accessible to project team and organization at-large (possibly outside the organization as well) according to clearly defined and shared formats and/or protocols
 
 - Organization has implemented a shared and standard process for collective decision-making
 
@@ -54,13 +54,13 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 ## Inclusivity
 
-In organizations that aren't open, people lack established channels for providing feedback or learning about projects and activities. Leaders and project teams do not actively solicit diverse perspectives in their work or seek to make project teams representative of the organization's population. People do not expect decision making to be an inclusive activity, so the organization does not actively promote a process for collective or collaborative decision-making. Instead, leaders make decisions without much input from others, and people are accustomed to receiving direction without any opportunity to provide input.
+In organizations that aren't open, people lack established channels for providing feedback or learning about projects and activities. Leaders and project teams do not actively solicit diverse perspectives in their work or think broadly about involving stakeholders of different backgrounds. People do not expect decision making to be an inclusive activity, so the organization does not actively promote a process for collective or collaborative decision-making. Instead, leaders make decisions without much input from others, and people are accustomed to receiving direction without any opportunity to provide input.
 
 ### Level 1
 
 - Organization is working to establish guidelines and channels for encouraging diverse points of view by inviting opinions and participation from anyone who is interested in providing them
 
-- Organization's procedures for participating in collective decision-making are result of collaboration and agreement among various stakeholders
+- Organization's procedures for participating in collective decision-making are the result of collaboration and agreement among various stakeholders
 
 - Leaders are open to receiving feedback and creating an environment where people feel safe providing it
 
@@ -78,9 +78,9 @@ In organizations that aren't open, people lack established channels for providin
 
 - Organization can demonstrate that protocols and procedures for participating in organization-wide discussions are the result of collaborative efforts between cross-functional groups with representatives from different functional and geographic teams
 
-- Leaders demonstrate willingness to address and respond to feedback they've received, typically in a way that entire teams can see
+- Leaders consistently demonstrate willingness to address and respond to feedback they've received, typically in a way that entire teams can see
 
-- Leaders work to establish multiple channels and methods for feedback, and they encourage their use
+- Leaders establish multiple channels and methods for feedback, use those channels themselves, and openly encourage others to use them
 
 - Leaders routinely encourage all team members to participate in decision-making practices, and they expressly solicit such participation from parties that may be reluctant to do so
 
@@ -88,7 +88,7 @@ In organizations that aren't open, people lack established channels for providin
 
 - Guidelines for sharing and soliciting diverse points of view on company or departmental decisions and are published for anyone to see, and a cross-functional team of organizational members helps maintain them
 
-- Organization advances clear guidelines for participants' use of collaborative platforms, and encourages the use open technical standards in their work
+- Organization advances clear guidelines for participants' use of collaborative platforms, and encourages the use of open technical standards in their work
 
 - Leaders establish multiple channels and methods for feedback, each of which is aligned with people's preferences for providing it; leaders are reflexive about their attitudes toward feedback and open the feedback processes themselves to feedback from others
 
@@ -106,15 +106,15 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 - People share materials, but typically in a one-way, “read only” fashion
 
-- Organization routinely solicits feedback from internal stakeholders
+- Organization routinely solicits feedback, but only from internal stakeholders
 
 - Organization provides opportunities for members to learn about other aspects of the organization
 
-- Members feel like they understand the organization's goals
+- Members feel like they somewhat understand the organization's goals, but might still have questions and no clarity on where to find answers
 
-- Organization encourages participants to solve problems by working together
+- Organization encourages participants to solve problems by working together, but doesn't provide clear frameworks or guideance to ensure it happens
 
-- Failure is a frequent topic of discussion among team members
+- Failure is a frequent topic of discussion among team members, but there's a hint of blame
 
 ### Level 2
 
@@ -128,7 +128,7 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 - Organization promotes a structured process for collective decision-making, and members use it regularly
 
-- Members understand that failure is an acceptable outcome of experimentation
+- Members understand that failure is an acceptable outcome of experimentation, and create processes to regularly discuss it and continously improve
 
 ### Level 3
 
@@ -136,21 +136,21 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 - Organization expressly allocates resources for collecting, managing, and acting on feedback from external parties and/or stakeholders
 
-- Organization provides clear, structured process and/or platform members can use to locate collaborative efforts they might join in order to learn more about and/or participate in a particular organizational function
+- Organization provides clear, structured process and/or platform that members can use to locate collaborative efforts they might join—to learn more about and/or participate in a particular organizational function
 
 - Leaders create environments where participants feel comfortable addressing challenges without managerial oversight
 
 - Organization's decision-making processes are collectively modifiable, and members feel comfortable adjusting their behaviors in response to changing conditions
 
-- Leaders cultivate a spirit of experimentation by spotlighting productive failures across the organization
+- Leaders cultivate a spirit of experimentation by spotlighting productive failures across the organization, and talk about their own failures as learning experiences
 
 ## Collaboration
 
-In organizations that aren't open, people tend to share the work they do only when asked for it. Conversations and joint efforts across departmental boundaries are difficult, even discouraged. As a result, projects move more slowly than they otherwise could, work gets duplicated unnecessarily across teams working toward similar goals, and project outcomes do not reflect the best possible results. People are not aware of the ways that work from other groups can enhance their own efforts, and they tend to let predetermined descriptions of their responsibilities dictate the work they do.
+In organizations that aren't open, people tend to share the work they do only when asked for it. Conversations and joint efforts across departmental boundaries are difficult, even discouraged. As a result, projects move more slowly than they otherwise could. Work gets duplicated unnecessarily across teams working toward similar goals, and project outcomes do not reflect the best possible results. People are not aware of the ways that work from other groups can enhance their own efforts, and they tend to let predetermined descriptions of their responsibilities dictate the work they do.
 
 ### Level 1
 
-- People share work after they initiate it
+- People share work after they initiate or complete it
 
 - Cross-functional teams exist, but team roles are often unclear and governance structures are vague
 
@@ -159,6 +159,8 @@ In organizations that aren't open, people tend to share the work they do only wh
 - Working groups and cross-functional teams often include the same faces and skill sets
 
 - Teams infrequently revisit the outcomes of their collaborations
+
+- People and teams resist efforts to collaborate as "too hard," "not in scope" or other blocking reason
 
 ### Level 2
 
@@ -171,6 +173,8 @@ In organizations that aren't open, people tend to share the work they do only wh
 - Teams are always seeking a diverse set of viewpoints, experiences, and skills
 
 - Outcomes of collaboration are the subject of future debate and revision
+
+- People and teams actively seek opportunities to collaborate as a built-in or natural part of their planning
 
 ### Level 3
 
@@ -190,7 +194,7 @@ In organizations that aren't open, people tend to act primarily in the service o
 
 ### Level 1
 
-- Members of the organization unite to define values and principles
+- A subset of members of the organization unite to define values and principles, but embark without clear support
 
 - People feel welcome to participate in and contribute to the organization, and people feel comfortable sharing their thoughts and opinions without fear of retribution
 
