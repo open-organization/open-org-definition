@@ -16,7 +16,7 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 - People recognize that leaders are making decisions that affect them but don't see a clear or obvious way of providing input on those decisions
 
-- Materials that are part of decision-making practices become available for review after the decision is final
+- Materials that are part of decision-making practices become available for review after decisions are finalized
 
 - Individuals and teams are comfortable sharing stories of successes, but not failures
 
@@ -32,7 +32,7 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 - Materials that are part of decision-making practices are available at defined project milestones
 
-- Individuals and teams are comfortable sharing stories of successes *and* failures in retrospective fashion
+- Individuals and teams are comfortable sharing stories of successes _and_ failures in retrospective fashion
 
 - Organization sponsors and promotes a shared repository for collective knowledge to which some participants can and do contribute
 
@@ -40,7 +40,7 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 ### Level 3
 
-- Non-sensitive materials are accessible to project team and organization at-large (possibly outside the organization as well) according to clearly defined and shared formats and/or protocols
+- Non-sensitive materials are accessible to project team and organization more broadly (possibly outside the organization as well) according to clearly defined and shared formats and/or protocols
 
 - Organization has implemented a shared and standard process for collective decision-making
 
@@ -66,7 +66,7 @@ In organizations that aren't open, people lack established channels for providin
 
 - Leaders maintain at least one clear and direct channel for receiving feedback from others, who feel comfortable using it
 
-- People share materials, but only when asked to, and typically via private channels or discussions
+- When people share materials, they do so via private channels or discussions
 
 - Organization encourages leaders to be conscious of voices not present in dialog and to actively seek them out for inclusion
 
@@ -110,11 +110,11 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 - Organization provides opportunities for members to learn about other aspects of the organization
 
-- Members feel like they somewhat understand the organization's goals, but might still have questions and no clarity on where to find answers
+- Members feel like they somewhat understand the organization's goals, but they might still have questions and are unsure where to find answers
 
 - Organization encourages participants to solve problems by working together, but doesn't provide clear frameworks or guideance to ensure it happens
 
-- Failure is a frequent topic of discussion among team members, but there's a hint of blame
+- Failure is a frequent topic of discussion among team members, but dicussions of failure often involve blame
 
 ### Level 2
 
@@ -128,7 +128,7 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 - Organization promotes a structured process for collective decision-making, and members use it regularly
 
-- Members understand that failure is an acceptable outcome of experimentation, and create processes to regularly discuss it and continously improve
+- Members understand that failure is an acceptable outcome of experimentation, and they create processes to regularly discuss failure and continously improve
 
 ### Level 3
 
@@ -160,7 +160,7 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 - Teams infrequently revisit the outcomes of their collaborations
 
-- People and teams resist efforts to collaborate as "too hard," "not in scope" or other blocking reason
+- People and teams collaborate but frequently say it's "too difficult," "not in scope" or "more trouble than it's worth"
 
 ### Level 2
 
@@ -194,7 +194,7 @@ In organizations that aren't open, people tend to act primarily in the service o
 
 ### Level 1
 
-- A subset of members of the organization unite to define values and principles, but are not clearly supported
+- Some members of the organization unite to define values and principles, but are not clearly supported when they do
 
 - People feel welcome to participate in and contribute to the organization, and people feel comfortable sharing their thoughts and opinions without fear of retribution
 
@@ -216,7 +216,7 @@ In organizations that aren't open, people tend to act primarily in the service o
 
 - Shared values and principles inform decision-making, conflict resolution, and assessment processes
 
-- People show shared consciousness and empowered execution—they feel agency and responsibility to the community
+- People show shared consciousness and empowered execution; they feel agency and responsibility to the community
 
 - Leaders understand that they grow by helping others grow, and they mentor junior members of the organization
 
