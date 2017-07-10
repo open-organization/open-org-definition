@@ -194,7 +194,7 @@ In organizations that aren't open, people tend to act primarily in the service o
 
 ### Level 1
 
-- A subset of members of the organization unite to define values and principles, but embark without clear support
+- A subset of members of the organization unite to define values and principles, but are not clearly supported
 
 - People feel welcome to participate in and contribute to the organization, and people feel comfortable sharing their thoughts and opinions without fear of retribution
 
@@ -216,7 +216,7 @@ In organizations that aren't open, people tend to act primarily in the service o
 
 - Shared values and principles inform decision-making, conflict resolution, and assessment processes
 
-- People show shared consciousness and empowered execution. They feel agency and responsibility to the community.
+- People show shared consciousness and empowered execution—they feel agency and responsibility to the community
 
 - Leaders understand that they grow by helping others grow, and they mentor junior members of the organization
 
