@@ -2,7 +2,7 @@
 
 ## About this document
 
-The Open Organization Maturity Model is a framework for helping your organization to become more transparent, inclusive, adaptable, collaborative, and communal. It outlines steps that individuals, teams, and organizations can take to critically examine their organizational practices and chart their progress toward becoming a more open organization (as outlined in the Open Organization Definition).
+The Open Organization Maturity Model is a framework for helping your organization to become more transparent, inclusive, adaptable, collaborative, and communal. It outlines steps that individuals, teams, and organizations can take to critically examine their organizational practices and chart their progress toward becoming a more open organization (as outlined in [the Open Organization Definition](https://github.com/open-organization-ambassadors/open-org-definition/blob/master/open_org_definition.md)).
 
 All organizations are different, so they adopt open principles and practices to different degrees. This model's three-level design therefore aims both to assist organizations determining the relative degree to which they act openly—and to help them explore possibilities for becoming more so.
 
@@ -104,7 +104,7 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 ### Level 1
 
-- People share materials, but typically in a one-way, “read only” fashion
+- People share materials, but typically in a one-way, "read only" fashion
 
 - Organization routinely solicits feedback, but only from internal stakeholders
 
@@ -160,7 +160,7 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 - Teams infrequently revisit the outcomes of their collaborations
 
-- People and teams collaborate but frequently say it's "too difficult," "not in scope" or "more trouble than it's worth"
+- People and teams collaborate but frequently say it's "too difficult" or "more trouble than it's worth"
 
 ### Level 2
 
@@ -216,7 +216,7 @@ In organizations that aren't open, people tend to act primarily in the service o
 
 - Shared values and principles inform decision-making, conflict resolution, and assessment processes
 
-- People show shared consciousness and empowered execution; they feel agency and responsibility to the community
+- People demonstrate shared consciousness and empowered execution; they feel a sense of agency and responsibility to the community
 
 - Leaders understand that they grow by helping others grow, and they mentor junior members of the organization
 
