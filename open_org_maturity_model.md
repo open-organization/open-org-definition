@@ -198,28 +198,28 @@ In organizations that aren't open, people tend to act primarily in the service o
 
 - Some members of the organization unite to define values and principles, but are not clearly supported when they do
 
-- People feel welcome to participate in and contribute to the organization, and people feel comfortable sharing their thoughts and opinions without fear of retribution
+- Members of the organization feel comfortable sharing their thoughts and opinions without fear of retribution, but only in familiar domains
 
 - People understand that the best ideas win, and leadership responsibilities accrue to people with histories of contribution and commitment
 
-- A common language for the organization emerges
+- A common language for the organization is embryonic or partially formed, but not all organization members are fluent and gaining fluency requires individual effort
 
 ### Level 2
 
-- Documents expressing shared visions and agreements—like mission statements and codes of conduct—are easily accessible, and people reference them often
+- Members of the organization collectively document shared visions and agreements like mission statements and codes of conduct, make them easily accessible, and reference them often
 
-- Onboarding materials and orientation rituals provide adequate context for helping new members understand how the organization will benefit from their contributions
+- Members of the organization feel comfortable sharing their thoughts and opinions without fear of retribution; onboarding materials and orientation rituals provide adequate context for helping new members understand how the organization will benefit from their contributions
 
 - Leaders demonstrate dedication to the organization's shared values, and they model the behavior the organization has determined admirable when they help resolve conflicts or other issues
 
-- People make an effort to explain jargon, acronyms, and inside jokes to new members of the organization
+- A common language for the organization is embryonic or partially formed, and members make efforts to explain/document jargon, acronyms, and inside jokes to each other—especially new members
 
 ### Level 3
 
-- Shared values and principles inform decision-making, conflict resolution, and assessment processes
+- Shared values and principles inform decision-making, conflict resolution, and assessment processes among members of the organization, who reference these values and principles consistently in both verbal and written formats
 
-- People demonstrate shared consciousness and empowered execution; they feel a sense of agency and responsibility to the community
+- The organization is proactive in telling members that it benefits from their contributions; as such, members demonstrate shared consciousness and empowered execution, and feel a sense of agency and responsibility to the community
 
 - Leaders understand that they grow by helping others grow, and they mentor junior members of the organization
 
-- People collect and share stories that emerge from the community in order to articulate its identity, attract new members, grow, and provide mentorship
+- A common language for the organization exists, such that members are not only fluent but can also articulate the organization's identity, formulate stories that attract new members, grow, and provide mentorship
