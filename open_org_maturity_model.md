@@ -18,39 +18,39 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 - Materials that are part of decision-making practices become available for review after decisions are finalized
 
-- Individuals and teams are comfortable sharing stories of successes, but not failures
+- Individuals and teams are comfortable sharing stories about successes, but not about failures
 
-- Individuals and teams share resources in disconnected, fragmented, or individualized systems or repositories
+- Individuals and teams share resources but in disconnected, fragmented, or individualized/siloed systems or repositories
 
-- Individuals and teams release data and resources to others, but without much explanation
+- Individuals and teams release data and resources to others, but there is no commonly expressed or shared understanding of the criteria used to determine whether information is sensitive or not, and little context for understanding how decisions are made
 
 ### Level 2
 
-- Non-sensitive materials are accessible to all members of project teams according to clearly defined and shared formats and/or protocols
+- Individuals and teams make project-related and non-sensitive materials accessible to all members of project teams according to clearly defined and shared formats and/or protocols
 
 - People feel like they know about—and are helping to shape—most, but not all, important decisions as those decisions are unfolding
 
 - Materials that are part of decision-making practices are available at defined project milestones
 
-- Individuals and teams are comfortable sharing stories of successes _and_ failures in retrospective fashion
+- Individuals and teams are comfortable sharing stories of successes _and_ failures during retrospectives and reviews
 
-- Organization sponsors and promotes a shared repository for collective knowledge to which some participants can and do contribute
+- The organization sponsors and promotes a shared repository for collective knowledge, and some organization members can and do contribute to it
 
-- Decision-makers withhold data and resources and are clear about what they're not releasing, but do not tend to explain why
+- Individuals and teams withhold sensitive data and resources, and are somewhat clear about what they're not sharing, and provide some context but of limited scope
 
 ### Level 3
 
-- Non-sensitive materials are accessible to project team and organization more broadly (possibly outside the organization as well) according to clearly defined and shared formats and/or protocols
+- Individuals and teams make project-related and non-sensitive materials broadly accessible to the organization—and possibly outside the organization as well—according to clearly defined and shared formats and/or protocols
 
-- Organization has implemented a shared and standard process for collective decision-making
+- People feel like they are a part of an implemented a shared and standard process for collective decision-making, endorsed by the organization
 
-- Materials that are part of decision-making practices are available for review at the beginning of projects and easily accessible throughout the work
+- Materials that are part of decision-making practices are available for review at the beginning of projects, and are easily and continuously accessible during work processes
 
-- Individuals and teams are comfortable sharing stories of successes and failures, and they frequently engage in difficult conversations during project execution
+- Individuals and teams are comfortable sharing stories of successes _and_ failures, and frequently engage in difficult conversations during project execution
 
-- A robust and easily-accessible knowledge commons exists, and teams make generous use of it
+- The organization sponsors and promotes a robust and easily-accessible knowledge commons, and all teams and organization members make generous and unrestricted use of it
 
-- Individuals and teams understand why certain sensitive materials are not available to them
+- Individuals and teams withhold sensitive data and resources, and are clear about what they're not sharing such that others understand why those materials are not available to them
 
 ## Inclusivity
 
@@ -58,45 +58,47 @@ In organizations that aren't open, people lack established channels for providin
 
 ### Level 1
 
-- Organization is working to establish guidelines and channels for encouraging diverse points of view by inviting opinions and participation from anyone who is interested in providing them
+- The organization is in the process of establishing internal guidelines and channels for encouraging diverse points of view about company/departmental decisions, so that anyone belonging to the organization can use them
 
-- Organization's procedures for participating in collective decision-making are the result of collaboration and agreement among various stakeholders
+- Members of the organization share decision-making materials on officially sanctioned platforms, but those materials are the result of collaboration and agreement among a limited number of stakeholders
 
-- Leaders are open to receiving feedback and creating an environment where people feel safe providing it
+- Some, but not all, leaders are open to receiving feedback and creating an environment where people feel safe providing it
 
-- Leaders maintain at least one clear and direct channel for receiving feedback from others, who feel comfortable using it
+- Leaders maintain at least one clear and direct channel for organization members to share opinions constructively on some matters relevant to their work or about which they feel passionate about, but show passivity about understanding whether all members feel empowered and enabled to do so
 
-- When people share materials, they do so via private channels or discussions
+- Members of the organization share materials via private channels or discussions
 
 - Organization encourages leaders to be conscious of voices not present in dialog and to actively seek them out for inclusion
 
 ### Level 2
 
-- Guidelines for sharing and soliciting diverse points of view on company or departmental decisions are published for anyone to see
+- The organization has already established internal guidelines and channels for encouraging and soliciting diverse points of view about company/departmental decisions, so that anyone belonging to the organization can use them; and expressly solicits such participation from parties that may be reluctant to do so 
 
-- People create materials on organizationally-sanctioned platforms that are accessible to others by default
+- Members of the organization share decision-making materials on officially sanctioned platforms made accessible by default
 
-- Organization can demonstrate that protocols and procedures for participating in organization-wide discussions are the result of collaborative efforts between cross-functional groups with representatives from different functional and geographic teams
+- Most leaders in the organization are open to receiving feedback and creating an environment where people feel safe providing it, and can demonstrate that protocols and procedures for participating in organization-wide discussions are collaborative
+
+- Organization members have the ability (through established channels and processes) to share opinions constructively on any matter relevant to their work or about which they feel passionate about, but whether all members feel empowered and enabled to do so is unquantified
 
 - Leaders consistently demonstrate willingness to address and respond to feedback they've received, typically in a way that entire teams can see
 
-- Leaders establish multiple channels and methods for feedback, use those channels themselves, and openly encourage others to use them
+- Members of the organization share materials openly via multiple channels and methods for feedback; leaders use those channels themselves, and openly encourage others to use them
 
-- Leaders routinely encourage all team members to participate in decision-making practices, and they expressly solicit such participation from parties that may be reluctant to do so
+- The organization provides specific resources (training programs, access to content, etc.) to help leaders to hone their strategies for forming inclusive teams
 
 ### Level 3
 
-- Guidelines for sharing and soliciting diverse points of view on company or departmental decisions are published for anyone to see, and a cross-functional team of organizational members helps maintain them
+- The organization has established internal guidelines and channels for encouraging and soliciting diverse points of view about company/departmental decisions; has aligned these with people's preferences for providing feedback; and has established a cross-functional team of organizational members to help maintain them
 
-- Organization advances clear guidelines for participants' use of collaborative platforms, and encourages the use of open technical standards in their work
+- Members of the organization share decision-making materials on collaborative platforms that come with clear usage guidelines, and receive encouragement in using open technical standards in their work
 
-- Leaders establish multiple channels and methods for feedback, each of which is aligned with people's preferences for providing it; leaders are reflexive about their attitudes toward feedback and open the feedback processes themselves to feedback from others
+- A majority/all leaders in the organization are open to receiving feedback and creating an environment where people feel safe providing it, and open feedback processes themselves to start discussions  
 
 - Members feel empowered and enabled to share opinions constructively on any matter relevant to their work or about which they feel passionate
 
-- Leaders maintain team-facing or public-facing records of the feedback they've received and/or the actions they've taken to address this feedback
+- Members of the organization share materials openly via multiple channels and methods for feedback; leaders use those channels themselves, openly encourage others to use them, and maintain team-facing or public-facing records of the feedback they've received and/or the actions they've taken to address this feedback
 
-- Organization assists leaders with specific resources (training programs, access to content, etc.) as they work to hone their strategies for forming inclusive teams
+- The organization provides specific resources (training programs, access to content, etc.) to help both leaders and other team members hone their strategies for forming inclusive teams
 
 ## Adaptability
 
@@ -104,43 +106,43 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 ### Level 1
 
-- People share materials, but typically in a one-way, "read only" fashion
+- Members of the organization share materials, but typically in a one-way, "read only" fashion
 
-- Organization routinely solicits feedback, but only from internal stakeholders
+- The organization routinely solicits feedback, but only from internal stakeholders
 
-- Organization provides opportunities for members to learn about other aspects of the organization
+- The organization provides opportunities for its members to learn about other aspects of the organization
 
-- Members feel like they somewhat understand the organization's goals, but they might still have questions and are unsure where to find answers
+- Members of the organization feel like they somewhat understand the organization's goals, but might still have questions and are unsure where to find answers
 
-- Organization encourages participants to solve problems by working together, but doesn't provide clear frameworks or guideance to ensure it happens
+- The organization encourages participants to solve problems by working together, but doesn't provide clear frameworks or guidance to ensure that they can do so effectively
 
 - Failure is a frequent topic of discussion among team members, but dicussions of failure often involve blame
 
 ### Level 2
 
-- People share materials via methods that allow other members to modify those materials
+- Members of the organization share materials via methods that allow other members to modify those materials
 
-- Organization promotes an obvious and accessible method for gathering feedback from both internal stakeholders and external parties
+- The organization routinely solicits feedback, and promotes an obvious and accessible method for collecting it from both internal stakeholders and external parties
 
-- Organization promotes continuous learning by offering programs and events
+- The organization provides opportunities for its members to learn about other aspects of the organization, and promotes continuous learning by offering programs and events
 
-- Members regularly discuss their progress on projects, key metrics and performance indicators, and their roles in the organization's goals and strategies
+- Members of the organization regularly discuss their roles in the organization's goals and strategies, as well as their progress on projects, key metrics and performance indicators
 
-- Organization promotes a structured process for collective decision-making and members use it regularly
+- The organization provides structured processes, clear frameworks and guidance for collective decision-making and problem-solving, and members use it regularly
 
 - Members understand that failure is an acceptable outcome of experimentation, and they create processes to regularly discuss failure and continously improve
 
 ### Level 3
 
-- Organization shares materials with external parties via methods that permit modification
+- Members of the organization can share materials with external parties via methods that permit modification
 
-- Organization expressly allocates resources for collecting, managing, and acting on feedback from external parties and/or stakeholders
+- The organization routinely solicits feedback, promotes an obvious and accessible method for collecting it from both internal stakeholders and external parties, and expressly allocates resources for managing and acting on the feedback
 
-- Organization provides clear, structured process and/or platform that members can use to locate collaborative efforts they might join—to learn more about and/or participate in a particular organizational function
+- The organization not only provides opportunities for its members to learn about other aspects of the organization, but also offers clear and structured processes and/or platforms for facilitating participation
 
-- Leaders create environments where participants feel comfortable addressing challenges without managerial oversight
+- Members of the organization regularly discuss their roles in the organization's goals and strategies, and their progress on projects, key metrics and performance indicators, while feeling comfortable addressing challenges without managerial oversight
 
-- Organization's decision-making processes are collectively modifiable, and members feel comfortable adjusting their behaviors in response to changing conditions
+- The organization's decision-making and problem-solving frameworks and processes are collectively modifiable, and members feel comfortable adjusting their behaviors in response to changing conditions
 
 - Leaders cultivate a spirit of experimentation by spotlighting productive failures across the organization, and talk about their own failures as learning experiences
 
@@ -150,43 +152,45 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 ### Level 1
 
-- People share work after they initiate or complete it
+- Members of the organization share work after initiating or completing projects
 
-- Cross-functional teams exist but team roles are often unclear and governance structures are vague
+- Cross-functional teams exist, but team roles are often unclear and governance structures are vague
 
-- Outcomes of collaboration remain within the team, and team shares them only when asked for them
+- Outcomes of collaborative efforts remain inside teams, and teams share these outcomes only upon request
 
-- Working groups and cross-functional teams often include the same faces and skill sets
+- Working groups and cross-functional teams tend to be static in terms of membership and skill sets
 
 - Teams infrequently revisit the outcomes of their collaborations
 
-- People and teams collaborate but frequently say it's "too difficult" or "more trouble than it's worth"
+- Members of the organization and teams collaborate but frequently say it's "too difficult" or "more trouble than it's worth"
 
 ### Level 2
 
-- People initiate projects as groups
+- Members of the organization share work by initiating projects in group settings, in the earliest possible stages
 
-- Cross-functional teams exist and teams post roles and goals publicly
+- Cross-functional teams are the norm, and teams post their roles and goals publicly
 
-- Outcomes of collaboration are available to the entire organization, and team makes them available by default
+- Outcomes of collaborative efforts are available to the entire organization, and teams make these outcomes available by default
 
-- Teams are always seeking a diverse set of viewpoints, experiences, and skills
+- Working groups and cross-functional teams habitually seek diverse sets of viewpoints, members, experiences, and skills
 
-- Outcomes of collaboration are the subject of future debate and revision
+- Teams routinely discuss, revisit and debate the outcomes of their collaborative efforts
 
-- People and teams actively seek opportunities to collaborate as a built-in or natural part of their planning
+- Members of the organization and teams actively seek opportunities to collaborate as a built-in or natural part of their planning
 
 ### Level 3
 
-- People working in groups effectively connect with additional project groups to form cross-functional teams
+- Members of the organization share work by initiating projects in group settings, effectively connecting with additional project groups to form cross-functional teams
 
-- Cross-functional teams exist and organizational promotes best practices for working together
+- Cross-functional teams are the norm and make their activities known broadly to the organization; in turn, the organization promotes best practices for working together
 
-- Outcomes of collaboration are available outside the organization
+- Outcomes of collaborative efforts are available across the organization and externally, and teams make these outcomes available by default
 
-- Teams effectively leverage members' diverse views and skills
+- Working groups and cross-functional teams habitually seek diverse sets of viewpoints, members, experiences, and skills, and leverage this diversity effectively
 
-- Outcomes of collaboration see uptake, use, and/or modification outside the organization
+- Teams routinely discuss, revisit and debate the outcomes of their collaborative efforts, and share their learnings outside the organization
+
+- Members of the organization and teams celebrate collaboration internally and externally as a win-win for all involved
 
 ## Community
 
@@ -196,28 +200,28 @@ In organizations that aren't open, people tend to act primarily in the service o
 
 - Some members of the organization unite to define values and principles, but are not clearly supported when they do
 
-- People feel welcome to participate in and contribute to the organization, and people feel comfortable sharing their thoughts and opinions without fear of retribution
+- Members of the organization feel comfortable sharing their thoughts and opinions without fear of retribution, but only in familiar domains
 
 - People understand that the best ideas win, and leadership responsibilities accrue to people with histories of contribution and commitment
 
-- A common language for the organization emerges
+- A common language for the organization is embryonic or partially formed, but not all organization members are fluent and gaining fluency requires individual effort
 
 ### Level 2
 
-- Documents expressing shared visions and agreements—like mission statements and codes of conduct—are easily accessible, and people reference them often
+- Members of the organization collectively document shared visions and agreements like mission statements and codes of conduct, make them easily accessible, and reference them often
 
-- Onboarding materials and orientation rituals provide adequate context for helping new members understand how the organization will benefit from their contributions
+- Members of the organization feel comfortable sharing their thoughts and opinions without fear of retribution; onboarding materials and orientation rituals provide adequate context for helping new members understand how the organization will benefit from their contributions
 
 - Leaders demonstrate dedication to the organization's shared values, and they model the behavior the organization has determined admirable when they help resolve conflicts or other issues
 
-- People make an effort to explain jargon, acronyms, and inside jokes to new members of the organization
+- A common language for the organization is embryonic or partially formed, and members make efforts to explain/document jargon, acronyms, and inside jokes to each other—especially new members
 
 ### Level 3
 
-- Shared values and principles inform decision-making, conflict resolution, and assessment processes
+- Shared values and principles inform decision-making, conflict resolution, and assessment processes among members of the organization, who reference these values and principles consistently in both verbal and written formats
 
-- People demonstrate shared consciousness and empowered execution; they feel a sense of agency and responsibility to the community
+- The organization is proactive in telling members that it benefits from their contributions; as such, members demonstrate shared consciousness and empowered execution, and feel a sense of agency and responsibility to the community
 
 - Leaders understand that they grow by helping others grow, and they mentor junior members of the organization
 
-- People collect and share stories that emerge from the community in order to articulate its identity, attract new members, grow, and provide mentorship
+- A common language for the organization exists, such that members are not only fluent but can also articulate the organization's identity, formulate stories that attract new members, grow, and provide mentorship
