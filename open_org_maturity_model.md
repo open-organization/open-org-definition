@@ -72,7 +72,7 @@ In organizations that aren't open, people lack established channels for providin
 
 ### Level 2
 
-- Guidelines for sharing and soliciting diverse points of view on company or departmental decisions and are published for anyone to see
+- Guidelines for sharing and soliciting diverse points of view on company or departmental decisions are published for anyone to see
 
 - People create materials on organizationally-sanctioned platforms that are accessible to others by default
 
@@ -86,7 +86,7 @@ In organizations that aren't open, people lack established channels for providin
 
 ### Level 3
 
-- Guidelines for sharing and soliciting diverse points of view on company or departmental decisions and are published for anyone to see, and a cross-functional team of organizational members helps maintain them
+- Guidelines for sharing and soliciting diverse points of view on company or departmental decisions are published for anyone to see, and a cross-functional team of organizational members helps maintain them
 
 - Organization advances clear guidelines for participants' use of collaborative platforms, and encourages the use of open technical standards in their work
 
@@ -126,7 +126,7 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 - Members regularly discuss their progress on projects, key metrics and performance indicators, and their roles in the organization's goals and strategies
 
-- Organization promotes a structured process for collective decision-making, and members use it regularly
+- Organization promotes a structured process for collective decision-making and members use it regularly
 
 - Members understand that failure is an acceptable outcome of experimentation, and they create processes to regularly discuss failure and continously improve
 
@@ -152,7 +152,7 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 - People share work after they initiate or complete it
 
-- Cross-functional teams exist, but team roles are often unclear and governance structures are vague
+- Cross-functional teams exist but team roles are often unclear and governance structures are vague
 
 - Outcomes of collaboration remain within the team, and team shares them only when asked for them
 
@@ -166,7 +166,7 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 - People initiate projects as groups
 
-- Cross-functional teams exist, and teams post roles and goals publicly
+- Cross-functional teams exist and teams post roles and goals publicly
 
 - Outcomes of collaboration are available to the entire organization, and team makes them available by default
 
@@ -180,7 +180,7 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 - People working in groups effectively connect with additional project groups to form cross-functional teams
 
-- Cross-functional teams exist, and organizational promotes best practices for working together
+- Cross-functional teams exist and organizational promotes best practices for working together
 
 - Outcomes of collaboration are available outside the organization
 
