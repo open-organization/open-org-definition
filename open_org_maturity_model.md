@@ -152,43 +152,45 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 ### Level 1
 
-- People share work after they initiate or complete it
+- Members of the organization share work after initiating or completing projects
 
-- Cross-functional teams exist but team roles are often unclear and governance structures are vague
+- Cross-functional teams exist, but team roles are often unclear and governance structures are vague
 
-- Outcomes of collaboration remain within the team, and team shares them only when asked for them
+- Outcomes of collaborative efforts remain inside teams, and teams share these outcomes only upon request
 
-- Working groups and cross-functional teams often include the same faces and skill sets
+- Working groups and cross-functional teams tend to be static in terms of membership and skill sets
 
 - Teams infrequently revisit the outcomes of their collaborations
 
-- People and teams collaborate but frequently say it's "too difficult" or "more trouble than it's worth"
+- Members of the organization and teams collaborate but frequently say it's "too difficult" or "more trouble than it's worth"
 
 ### Level 2
 
-- People initiate projects as groups
+- Members of the organization share work by initiating projects in group settings, in the earliest possible stages
 
-- Cross-functional teams exist and teams post roles and goals publicly
+- Cross-functional teams are the norm, and teams post their roles and goals publicly
 
-- Outcomes of collaboration are available to the entire organization, and team makes them available by default
+- Outcomes of collaborative efforts are available to the entire organization, and teams make these outcomes available by default
 
-- Teams are always seeking a diverse set of viewpoints, experiences, and skills
+- Working groups and cross-functional teams habitually seek diverse sets of viewpoints, members, experiences, and skills
 
-- Outcomes of collaboration are the subject of future debate and revision
+- Teams routinely discuss, revisit and debate the outcomes of their collaborative efforts
 
-- People and teams actively seek opportunities to collaborate as a built-in or natural part of their planning
+- Members of the organization and teams actively seek opportunities to collaborate as a built-in or natural part of their planning
 
 ### Level 3
 
-- People working in groups effectively connect with additional project groups to form cross-functional teams
+- Members of the organization share work by initiating projects in group settings, effectively connecting with additional project groups to form cross-functional teams
 
-- Cross-functional teams exist and organizational promotes best practices for working together
+- Cross-functional teams are the norm and make their activities known broadly to the organization; in turn, the organization promotes best practices for working together
 
-- Outcomes of collaboration are available outside the organization
+- Outcomes of collaborative efforts are available across the organization and externally, and teams make these outcomes available by default
 
-- Teams effectively leverage members' diverse views and skills
+- Working groups and cross-functional teams habitually seek diverse sets of viewpoints, members, experiences, and skills, and leverage this diversity effectively
 
-- Outcomes of collaboration see uptake, use, and/or modification outside the organization
+- Teams routinely discuss, revisit and debate the outcomes of their collaborative efforts, and share their learnings outside the organization
+
+- Members of the organization and teams celebrate collaboration internally and externally as a win-win for all involved
 
 ## Community
 
