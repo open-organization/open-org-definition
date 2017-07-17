@@ -58,45 +58,47 @@ In organizations that aren't open, people lack established channels for providin
 
 ### Level 1
 
-- Organization is working to establish guidelines and channels for encouraging diverse points of view by inviting opinions and participation from anyone who is interested in providing them
+- The organization is in the process of establishing internal guidelines and channels for encouraging diverse points of view about company/departmental decisions, so that anyone belonging to the organization can use them
 
-- Organization's procedures for participating in collective decision-making are the result of collaboration and agreement among various stakeholders
+- Members of the organization share decision-making materials on officially sanctioned platforms, but those materials are the result of collaboration and agreement among a limited number of stakeholders
 
-- Leaders are open to receiving feedback and creating an environment where people feel safe providing it
+- Some, but not all, leaders are open to receiving feedback and creating an environment where people feel safe providing it
 
-- Leaders maintain at least one clear and direct channel for receiving feedback from others, who feel comfortable using it
+- Leaders maintain at least one clear and direct channel for organization members to share opinions constructively on some matters relevant to their work or about which they feel passionate about, but show passivity about understanding whether all members feel empowered and enabled to do so
 
-- When people share materials, they do so via private channels or discussions
+- Members of the organization share materials via private channels or discussions
 
 - Organization encourages leaders to be conscious of voices not present in dialog and to actively seek them out for inclusion
 
 ### Level 2
 
-- Guidelines for sharing and soliciting diverse points of view on company or departmental decisions are published for anyone to see
+- The organization has already established internal guidelines and channels for encouraging and soliciting diverse points of view about company/departmental decisions, so that anyone belonging to the organization can use them; and expressly solicits such participation from parties that may be reluctant to do so 
 
-- People create materials on organizationally-sanctioned platforms that are accessible to others by default
+- Members of the organization share decision-making materials on officially sanctioned platforms made accessible by default
 
-- Organization can demonstrate that protocols and procedures for participating in organization-wide discussions are the result of collaborative efforts between cross-functional groups with representatives from different functional and geographic teams
+- Most leaders in the organization are open to receiving feedback and creating an environment where people feel safe providing it, and can demonstrate that protocols and procedures for participating in organization-wide discussions are collaborative
+
+- Organization members have the ability (through established channels and processes) to share opinions constructively on any matter relevant to their work or about which they feel passionate about, but whether all members feel empowered and enabled to do so is unquantified
 
 - Leaders consistently demonstrate willingness to address and respond to feedback they've received, typically in a way that entire teams can see
 
-- Leaders establish multiple channels and methods for feedback, use those channels themselves, and openly encourage others to use them
+- Members of the organization share materials openly via multiple channels and methods for feedback; leaders use those channels themselves, and openly encourage others to use them
 
-- Leaders routinely encourage all team members to participate in decision-making practices, and they expressly solicit such participation from parties that may be reluctant to do so
+- The organization provides specific resources (training programs, access to content, etc.) to help leaders to hone their strategies for forming inclusive teams
 
 ### Level 3
 
-- Guidelines for sharing and soliciting diverse points of view on company or departmental decisions are published for anyone to see, and a cross-functional team of organizational members helps maintain them
+- The organization has established internal guidelines and channels for encouraging and soliciting diverse points of view about company/departmental decisions; has aligned these with people's preferences for providing feedback; and has established a cross-functional team of organizational members to help maintain them
 
-- Organization advances clear guidelines for participants' use of collaborative platforms, and encourages the use of open technical standards in their work
+- Members of the organization share decision-making materials on collaborative platforms that come with clear usage guidelines, and receive encouragement in using open technical standards in their work
 
-- Leaders establish multiple channels and methods for feedback, each of which is aligned with people's preferences for providing it; leaders are reflexive about their attitudes toward feedback and open the feedback processes themselves to feedback from others
+- A majority/all leaders in the organization are open to receiving feedback and creating an environment where people feel safe providing it, and open feedback processes themselves to start discussions  
 
 - Members feel empowered and enabled to share opinions constructively on any matter relevant to their work or about which they feel passionate
 
-- Leaders maintain team-facing or public-facing records of the feedback they've received and/or the actions they've taken to address this feedback
+- Members of the organization share materials openly via multiple channels and methods for feedback; leaders use those channels themselves, openly encourage others to use them, and maintain team-facing or public-facing records of the feedback they've received and/or the actions they've taken to address this feedback
 
-- Organization assists leaders with specific resources (training programs, access to content, etc.) as they work to hone their strategies for forming inclusive teams
+- The organization provides specific resources (training programs, access to content, etc.) to help both leaders and other team members hone their strategies for forming inclusive teams
 
 ## Adaptability
 
