@@ -28,7 +28,7 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 - Individuals and teams make project-related and non-sensitive materials accessible to all members of project teams according to clearly defined and shared formats and/or protocols
 
-- People feel like they know about—and are helping to shape—most, but not all, important decisions as those decisions are unfolding
+- People feel like they know about—and are helping to shape—most (but not all) important decisions as those decisions are unfolding
 
 - Materials that are part of decision-making practices are available at defined project milestones
 
@@ -36,13 +36,13 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 - The organization sponsors and promotes a shared repository for collective knowledge, and some organization members can and do contribute to it
 
-- Individuals and teams withhold sensitive data and resources, and are somewhat clear about what they're not sharing, and provide some context but of limited scope
+- Individuals and teams withhold sensitive data and resources, but they are somewhat unclear about what they're not sharing and provide limited details, context, and scope
 
 ### Level 3
 
 - Individuals and teams make project-related and non-sensitive materials broadly accessible to the organization—and possibly outside the organization as well—according to clearly defined and shared formats and/or protocols
 
-- People feel like they are a part of an implemented a shared and standard process for collective decision-making, endorsed by the organization
+- People feel like they are a part of a shared, standard process for collective decision-making that the organization endorses
 
 - Materials that are part of decision-making practices are available for review at the beginning of projects, and are easily and continuously accessible during work processes
 
@@ -50,7 +50,7 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 - The organization sponsors and promotes a robust and easily-accessible knowledge commons, and all teams and organization members make generous and unrestricted use of it
 
-- Individuals and teams withhold sensitive data and resources, and are clear about what they're not sharing such that others understand why those materials are not available to them
+- Individuals and teams who must withold sensitive data and resources are clear about what they're not sharing, and others understand why those materials are not available to them
 
 ## Inclusivity
 
@@ -78,7 +78,7 @@ In organizations that aren't open, people lack established channels for providin
 
 - Most leaders in the organization are open to receiving feedback and creating an environment where people feel safe providing it, and can demonstrate that protocols and procedures for participating in organization-wide discussions are collaborative
 
-- Organization members have the ability (through established channels and processes) to share opinions constructively on any matter relevant to their work or about which they feel passionate about, but whether all members feel empowered and enabled to do so is unquantified
+- Members of the organization have the ability (through established channels and processes) to share opinions constructively on any matter relevant to their work or about which they feel passionate about, but whether all members feel empowered and enabled to do so is unclear
 
 - Leaders consistently demonstrate willingness to address and respond to feedback they've received, typically in a way that entire teams can see
 
@@ -88,11 +88,11 @@ In organizations that aren't open, people lack established channels for providin
 
 ### Level 3
 
-- The organization has established internal guidelines and channels for encouraging and soliciting diverse points of view about company/departmental decisions; has aligned these with people's preferences for providing feedback; and has established a cross-functional team of organizational members to help maintain them
+- The organization has established internal guidelines and channels for encouraging and soliciting diverse points of view on team or decisions, has aligned these with people's preferences for providing feedback, and has established a cross-functional team of organizational members to help maintain them
 
 - Members of the organization share decision-making materials on collaborative platforms that come with clear usage guidelines, and receive encouragement in using open technical standards in their work
 
-- A majority/all leaders in the organization are open to receiving feedback and creating an environment where people feel safe providing it, and open feedback processes themselves to start discussions  
+- Most leaders in the organization are open to receiving feedback and creating an environment where people feel safe providing it, and open feedback processes themselves to start discussions
 
 - Members feel empowered and enabled to share opinions constructively on any matter relevant to their work or about which they feel passionate
 
@@ -124,9 +124,9 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 - The organization routinely solicits feedback, and promotes an obvious and accessible method for collecting it from both internal stakeholders and external parties
 
-- The organization provides opportunities for its members to learn about other aspects of the organization, and promotes continuous learning by offering programs and events
+- The organization provides opportunities for its members to learn about other aspects of the organization, and fosters continuous learning by offering programs and events 
 
-- Members of the organization regularly discuss their roles in the organization's goals and strategies, as well as their progress on projects, key metrics and performance indicators
+- Members of the organization regularly discuss their roles in the organization's goals and strategies, as well as their progress on projects, key metrics, and performance indicators
 
 - The organization provides structured processes, clear frameworks and guidance for collective decision-making and problem-solving, and members use it regularly
 
@@ -136,11 +136,11 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 - Members of the organization can share materials with external parties via methods that permit modification
 
-- The organization routinely solicits feedback, promotes an obvious and accessible method for collecting it from both internal stakeholders and external parties, and expressly allocates resources for managing and acting on the feedback
+- The organization routinely solicits feedback, promotes an obvious and accessible method for collecting it from both internal stakeholders and external parties, and expressly allocates resources for managing and acting on it
 
 - The organization not only provides opportunities for its members to learn about other aspects of the organization, but also offers clear and structured processes and/or platforms for facilitating participation
 
-- Members of the organization regularly discuss their roles in the organization's goals and strategies, and their progress on projects, key metrics and performance indicators, while feeling comfortable addressing challenges without managerial oversight
+- Members of the organization regularly discuss their roles in the organization's goals and strategies—and their progress on projects, key metrics and performance indicators—while feeling comfortable addressing challenges without managerial oversight
 
 - The organization's decision-making and problem-solving frameworks and processes are collectively modifiable, and members feel comfortable adjusting their behaviors in response to changing conditions
 
@@ -168,7 +168,7 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 - Members of the organization share work by initiating projects in group settings, in the earliest possible stages
 
-- Cross-functional teams are the norm, and teams post their roles and goals publicly
+- Cross-functional teams are commonplace, and teams post their roles and goals publicly
 
 - Outcomes of collaborative efforts are available to the entire organization, and teams make these outcomes available by default
 
@@ -182,7 +182,7 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 - Members of the organization share work by initiating projects in group settings, effectively connecting with additional project groups to form cross-functional teams
 
-- Cross-functional teams are the norm and make their activities known broadly to the organization; in turn, the organization promotes best practices for working together
+- Cross-functional teams are commonplace and make their activities known broadly to the organization; in turn, the organization promotes best practices for working together
 
 - Outcomes of collaborative efforts are available across the organization and externally, and teams make these outcomes available by default
 
@@ -190,7 +190,7 @@ In organizations that aren't open, people tend to share the work they do only wh
 
 - Teams routinely discuss, revisit and debate the outcomes of their collaborative efforts, and share their learnings outside the organization
 
-- Members of the organization and teams celebrate collaboration internally and externally as a win-win for all involved
+- Members of the organization collaborate both internally and externally in ways that benefit all involved
 
 ## Community
 
