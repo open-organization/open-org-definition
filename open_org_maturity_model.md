@@ -106,43 +106,43 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 ### Level 1
 
-- People share materials, but typically in a one-way, "read only" fashion
+- Members of the organization share materials, but typically in a one-way, "read only" fashion
 
-- Organization routinely solicits feedback, but only from internal stakeholders
+- The organization routinely solicits feedback, but only from internal stakeholders
 
-- Organization provides opportunities for members to learn about other aspects of the organization
+- The organization provides opportunities for its members to learn about other aspects of the organization
 
-- Members feel like they somewhat understand the organization's goals, but they might still have questions and are unsure where to find answers
+- Members of the organization feel like they somewhat understand the organization's goals, but might still have questions and are unsure where to find answers
 
-- Organization encourages participants to solve problems by working together, but doesn't provide clear frameworks or guideance to ensure it happens
+- The organization encourages participants to solve problems by working together, but doesn't provide clear frameworks or guidance to ensure that they can do so effectively
 
 - Failure is a frequent topic of discussion among team members, but dicussions of failure often involve blame
 
 ### Level 2
 
-- People share materials via methods that allow other members to modify those materials
+- Members of the organization share materials via methods that allow other members to modify those materials
 
-- Organization promotes an obvious and accessible method for gathering feedback from both internal stakeholders and external parties
+- The organization routinely solicits feedback, and promotes an obvious and accessible method for collecting it from both internal stakeholders and external parties
 
-- Organization promotes continuous learning by offering programs and events
+- The organization provides opportunities for its members to learn about other aspects of the organization, and promotes continuous learning by offering programs and events
 
-- Members regularly discuss their progress on projects, key metrics and performance indicators, and their roles in the organization's goals and strategies
+- Members of the organization regularly discuss their roles in the organization's goals and strategies, as well as their progress on projects, key metrics and performance indicators
 
-- Organization promotes a structured process for collective decision-making and members use it regularly
+- The organization provides structured processes, clear frameworks and guidance for collective decision-making and problem-solving, and members use it regularly
 
 - Members understand that failure is an acceptable outcome of experimentation, and they create processes to regularly discuss failure and continously improve
 
 ### Level 3
 
-- Organization shares materials with external parties via methods that permit modification
+- Members of the organization can share materials with external parties via methods that permit modification
 
-- Organization expressly allocates resources for collecting, managing, and acting on feedback from external parties and/or stakeholders
+- The organization routinely solicits feedback, promotes an obvious and accessible method for collecting it from both internal stakeholders and external parties, and expressly allocates resources for managing and acting on the feedback
 
-- Organization provides clear, structured process and/or platform that members can use to locate collaborative efforts they might join—to learn more about and/or participate in a particular organizational function
+- The organization not only provides opportunities for its members to learn about other aspects of the organization, but also offers clear and structured processes and/or platforms for facilitating participation
 
-- Leaders create environments where participants feel comfortable addressing challenges without managerial oversight
+- Members of the organization regularly discuss their roles in the organization's goals and strategies, and their progress on projects, key metrics and performance indicators, while feeling comfortable addressing challenges without managerial oversight
 
-- Organization's decision-making processes are collectively modifiable, and members feel comfortable adjusting their behaviors in response to changing conditions
+- The organization's decision-making and problem-solving frameworks and processes are collectively modifiable, and members feel comfortable adjusting their behaviors in response to changing conditions
 
 - Leaders cultivate a spirit of experimentation by spotlighting productive failures across the organization, and talk about their own failures as learning experiences
 
