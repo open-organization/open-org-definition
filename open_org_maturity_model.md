@@ -18,39 +18,39 @@ In organizations that aren't open, transparency is rare. Individuals and teams d
 
 - Materials that are part of decision-making practices become available for review after decisions are finalized
 
-- Individuals and teams are comfortable sharing stories of successes, but not failures
+- Individuals and teams are comfortable sharing stories about successes, but not about failures
 
-- Individuals and teams share resources in disconnected, fragmented, or individualized systems or repositories
+- Individuals and teams share resources but in disconnected, fragmented, or individualized/siloed systems or repositories
 
-- Individuals and teams release data and resources to others, but without much explanation
+- Individuals and teams release data and resources to others, but there is no commonly expressed or shared understanding of the criteria used to determine whether information is sensitive or not, and little context for understanding how decisions are made
 
 ### Level 2
 
-- Non-sensitive materials are accessible to all members of project teams according to clearly defined and shared formats and/or protocols
+- Individuals and teams make project-related and non-sensitive materials accessible to all members of project teams according to clearly defined and shared formats and/or protocols
 
 - People feel like they know about—and are helping to shape—most, but not all, important decisions as those decisions are unfolding
 
 - Materials that are part of decision-making practices are available at defined project milestones
 
-- Individuals and teams are comfortable sharing stories of successes _and_ failures in retrospective fashion
+- Individuals and teams are comfortable sharing stories of successes _and_ failures during retrospectives and reviews
 
-- Organization sponsors and promotes a shared repository for collective knowledge to which some participants can and do contribute
+- The organization sponsors and promotes a shared repository for collective knowledge, and some organization members can and do contribute to it
 
-- Decision-makers withhold data and resources and are clear about what they're not releasing, but do not tend to explain why
+- Individuals and teams withhold sensitive data and resources, and are somewhat clear about what they're not sharing, and provide some context but of limited scope
 
 ### Level 3
 
-- Non-sensitive materials are accessible to project team and organization more broadly (possibly outside the organization as well) according to clearly defined and shared formats and/or protocols
+- Individuals and teams make project-related and non-sensitive materials broadly accessible to the organization—and possibly outside the organization as well—according to clearly defined and shared formats and/or protocols
 
-- Organization has implemented a shared and standard process for collective decision-making
+- People feel like they are a part of an implemented a shared and standard process for collective decision-making, endorsed by the organization
 
-- Materials that are part of decision-making practices are available for review at the beginning of projects and easily accessible throughout the work
+- Materials that are part of decision-making practices are available for review at the beginning of projects, and are easily and continuously accessible during work processes
 
-- Individuals and teams are comfortable sharing stories of successes and failures, and they frequently engage in difficult conversations during project execution
+- Individuals and teams are comfortable sharing stories of successes _and_ failures, and frequently engage in difficult conversations during project execution
 
-- A robust and easily-accessible knowledge commons exists, and teams make generous use of it
+- The organization sponsors and promotes a robust and easily-accessible knowledge commons, and all teams and organization members make generous and unrestricted use of it
 
-- Individuals and teams understand why certain sensitive materials are not available to them
+- Individuals and teams withhold sensitive data and resources, and are clear about what they're not sharing such that others understand why those materials are not available to them
 
 ## Inclusivity
 
