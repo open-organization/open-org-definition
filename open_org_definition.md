@@ -1,4 +1,4 @@
-# What is an open organization?
+# The Open Organization Definition
 
 ## Preamble
 

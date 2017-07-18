@@ -225,3 +225,13 @@ In organizations that aren't open, people tend to act primarily in the service o
 - Leaders understand that they grow by helping others grow, and they mentor junior members of the organization
 
 - A common language for the organization exists, such that members are not only fluent but can also articulate the organization's identity, formulate stories that attract new members, grow, and provide mentorship
+
+## Revision History
+
+Version 1.0  
+Updated July 2017  
+The Open Organization Ambassadors at Opensource.com
+
+## License
+
+[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
