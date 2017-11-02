@@ -116,7 +116,7 @@ In organizations that aren't open, responding to environmental conditions is dif
 
 - The organization encourages participants to solve problems by working together, but doesn't provide clear frameworks or guidance to ensure that they can do so effectively
 
-- Failure is a frequent topic of discussion among team members, but dicussions of failure often involve blame
+- Failure is a frequent topic of discussion among team members, but discussions of failure often involve blame
 
 ### Level 2
 
