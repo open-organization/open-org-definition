@@ -1,128 +1,128 @@
-# The Open Organization Definition
+# De definitie van een Open Organisatie
 
-## Preamble
+## Inleiding
 
-Openness is becoming increasingly central to the ways groups and teams of all sizes are working together to achieve shared goals. And today, the most forward-thinking organizations—whatever their missions—are embracing openness as a necessary orientation toward success. They've seen that openness can lead to:
+Openheid wordt steeds belangrijker in de manier waarop teams van allerlei groottes samenwerken om hun gedeelde doelen te bereiken. Vandaag de dag omarmen de meest vooruitstrevende organisaties - ongeacht hun missie - openheid als een noodzakelijke richting tot succes. Ze hebben ingezien dat openheid kan leiden tot: 
 
-* **Greater agility**, as members are more capable of working toward goals in unison and with shared vision;
-* **Faster innovation**, as ideas from both inside and outside the organization receive more equitable consideration and rapid experimentation, and;
-* **Increased engagement**, as members clearly see connections between their particular activities and an organization's overarching values, mission, and spirit.
+* **Grotere flexibiliteit**: Teamleden zijn beter in staat om samen te werken en aan gedeelde doelen te werken;
+* **Snellere innovatie**: Ideeën van zowel binnen als buiten de organisatie krijgen meer aandacht en er kan snel worden geëxperimenteerd;
+* **Verhoogde betrokkenheid**: Teamleden zien duidelijk verbanden tussen hun specifieke activiteiten en de gezamenlijke waarden, missie en visie van een organisatie. 
 
-But openness is fluid. Openness is multifaceted. Openness is contested.
+Maar openheid staat niet vast. Openheid is veelzijdig. Openheid wordt betwist. 
 
-While every organization is different—and therefore every example of an open organization is unique—we believe these five characteristics serve as the basic conditions for openness in most contexts:
+Hoewel elke organisatie anders is - en daarom elk voorbeeld van een open organisatie uniek is - geloven we dat de volgende vijf kenmerken in de meeste contexten de basisvoorwaarden voor openheid zijn: 
 
-* Transparency
-* Inclusivity
-* Adaptability
-* Collaboration
+* Transparantie
+* Inclusiviteit
+* Flexibiliteit
+* Samenwerking
 * Community
 
-## Characteristics of an Open Organization
+## Kenmerken van een open organisatie
 
-Open organizations take many shapes. Their sizes, compositions, and missions vary. But the following five characteristics are the hallmarks of any open organization.
+Open organisaties hebben vele vormen. Hun grootte, samenstellingen en missies variëren. De benoemde vijf kenmerken zijn echter dé kenmerken voor elke open organisatie. 
 
-In practice, every open organization likely exemplifies each one of these characteristics differently, and to a greater or lesser extent. Moreover, some organizations that don't consider themselves open organizations might nevertheless embrace a few of them. But truly open organizations embody them all—and they connect them in powerful and productive ways.
+In de praktijk is in elke open organisatie waarschijnlijk een ander beeld van wat de definitie is van elk van deze kenmerken. Bovendien zullen sommige organisaties die zichzelf niet beschouwen als open organisaties, toch enkele van deze kenmerken omarmen. Echter, volledig open organisaties omarmen deze kenmerken in zijn geheel en combineren deze kenmerken tot een krachtig en productief geheel.
 
-That fact makes explaining any one of the characteristics difficult without reference to the others.
+Dit feit maakt het uitleggen van een van de kenmerken lastig zonder te verwijzen naar de andere kenmerken.
 
-### Transparency
+### Transparantie
 
-In open organizations, transparency reigns. As much as possible (and advisable) under applicable laws, open organizations work to make their data and other materials easily accessible to both internal and external participants; they are open for any member to review them when necessary (see also _inclusivity_). Decisions are transparent to the extent that everyone affected by them understands the processes and arguments that led to them; they are open to assessment (see also _collaboration_). Work is transparent to the extent that anyone can monitor and assess a project's progress throughout its development; it is open to observation and potential revision if necessary (see also _adaptability_).
+In open organisaties heerst transparantie. Zoveel als mogelijk (en raadzaam) onder toepasselijke wetgeving, werken open organisaties om hun gegevens en andere materialen gemakkelijk toegankelijk te maken voor zowel interne als externe deelnemers; ze zijn toegankelijk voor elke deelnemer om deze indien nodig te herzien (zie ook _inclusiviteit_). Beslissingen zijn transparant in de mate dat alle betrokkenen de processen en argumenten begrijpen die tot de beslissing hebben geleid; De beslissingen kunnen door evaluatie worden herzien (zie ook _samenwerking_). Werk is transparant in de mate dat een betrokkene de voortgang van een project gedurende zijn ontwikkeling kan volgen en beoordelen; het werk staat open voor waarneming en eventuele herziening indien benodigd (zie ook _flexabiliteit_). 
 
-In open organizations, transaprency looks like:
+In open organisaties ziet transparantie er als volgt uit:
 
-* Everyone working on a project or initiative has access to all pertinent materials by default.
+* Iedereen die aan een project of initiatief werkt, heeft standaard toegang tot alle relevante materialen.
 
-* People willingly disclose their work, invite participation on projects before those projects are complete and/or "final," and respond positively to request for additional details.
+* Mensen openbaren graag hun werk, laten betrokkenen participeren aan projecten, voordat deze projecten voltooid en/of definitief zijn en reageren positief op de verzoeken om aanvullende informatie.
 
-* People affected by decisions can access and review the processes and arguments that lead to those decisions, and they can comment on and respond to them.
+* Mensen voor wie beslissingen worden genomen, kunnen toegang krijgen tot de processen en argumenten die tot deze beslissingen leiden. Ze kunnen hierop feedback geven welke wordt gebruikt om een beslissing te evalueren, en indien nodig, te herzien
 
-* Leaders encourage others to tell stories about both their failures and their successes without fear of repercussion; associates are forthcoming about both.
+* Leiders moedigen anderen aan om verhalen te vertellen over zowel hun falen als hun successen zonder dat zij angst te hebben dat deze verhalen negatieve consequenties hebben..
 
-* People value both success and failures for the lessons they provide.
+* Mensen waarderen zowel succes als falen om hiervan te leren.
+
+* De gestelde doelen zijn openbaar en expliciet gemaakt. De mensen die aan projecten werken, bepalen continu duidelijk hun rollen inclusief de verantwoordelijkheden die hier bij horen, om de verantwoordelijkheid van de organisatie te verbeteren.
+
+### Inclusiviteit
+
+Open organisaties zijn inclusief. Ze verwelkomen niet alleen diverse standpunten, maar implementeren ook specifieke mechanismen om op welk moment dan ook het dialoog te kunnen voeren op basis van meerdere invalshoeken. Geïnteresseerde partijen en nieuwkomers kunnen starten met het assisteren van de organisatie zonder expliciete toestemming te vragen aan alle betrokken partijen (zie ook _samenwerking_). 
+De protocollen en procedures voor deelname zijn duidelijk (zie ook _transparantie_) en werken op basis van afgesproken (gemeenschappelijke) normen. 
+
+In open organisaties ziet inclusiviteit er als volgt uit:
+
+* Technische middelen en sociale normen voor het aanmoedigen van verschillende standpunten zijn gerenommeerd en vanzelfsprekend.
+
+* De organisatie beschikt over meerdere middelen en/of methoden voor het ontvangen van feedback, zodat zij tegemoet kunnen komen aan de voorkeuren van mensen.
+
+* Leiders beoordelen en reageren regelmatig op de feedback die ze ontvangen en ontwikkelen een cultuur die een frequente dialoog over deze feedback aanmoedigt.
+
+* Leiders beoordelen en reageren regelmatig op de feedback die ze ontvangen en ontwikkelen een cultuur die een frequente dialoog over deze feedback aanmoedigt.
+
+* Leiders zijn zich bewust van meningen die niet in de dialoog aanwezig zijn en proberen deze actief op te zoeken of deze meningen mee te nemen in de dialoog.
+
+* Mensen voelen zich verplicht om hun mening te geven over zaken die relevant zijn voor hun werk of over zaken waar ze gepassioneerd over zijn.
+
+* Mensen werken transparant en delen materiaal via gemeenschappelijk afgesproken standaarden en/of afgesproken platforms. Deze platforms dienen zowel gemakkelijk toegankelijk te zijn voor anderen, alsmede de mogelijkheid bieden om wijzigingen aan te brengen.
+
+### Flexibiliteit
+
+Open organisaties zijn flexibele en elastische organisaties. Organisatorisch beleid en technische hulpmiddelen zorgen ervoor dat zowel positieve als negatieve feedback een positief effect hebben op de werking van de organisatie; deelnemers kunnen de omstandigheden waaronder ze werken controleren en waar mogelijk wijzigen. Ze rapporteren frequent en uitvoerig over de resultaten van hun inspanningen (zie ook _transparantie_) en stellen eventuele aanpassingen van collectieve acties voor op basis van beoordelingen van deze resultaten. Op deze manier zijn open organisaties volledig gericht op continue betrokkenheid en continu leren.
+
+In open organisaties ziet flexibiliteit er als volgt uit:
+
+* Het kunnen geven van feedback is toegankelijk voor zowel betrokkenen binnen de organisatie als voor externe betrokkenen, welke suggesties kunnen doen.
+
+* Het geven van feedback wordt aangemoedigd om, indien nodig, betrokkenen elkaar onderling te ondersteunen zonder dat er toezicht benodigd is van een leidinggevende.
+
+* Leiders werken eraan om ervoor te zorgen dat feedback daadwerkelijk van invloed zijn op de manier waarop mensen in de organisatie werken.
+
+* Processen voor collectieve probleemoplossing, gezamenlijke besluitvorming en continu leren zijn aanwezig, en de organisatie beloont zowel persoonlijk- als teamleren om de groeimentaliteit te versterken.
+
+* Mensen proberen de context te begrijpen bij de wijzigingen die ze aanbrengen of ervaren.
+
+* Mensen zijn niet bang om fouten te maken, maar projecten en teams gaan makkelijk om met het aanpassen van hun reeds bestaande werk om herhaalde mislukkingen te voorkomen.
+
+### Samenwerking
+
+Werken in een open organisatie omvat standaard het werken met meerdere partijen. Deelnemers zijn van mening dat gezamenlijk werk betere (effectievere en duurzamere) resultaten opleveren en streven er naar anderen te betrekken bij hun inspanningen (zie ook _inclusiviteit_). Producten ontwikkeld in open organisaties geven extra verbeteringen, zelfs door degenen die niet bij de organisatie zijn aangesloten (zie ook _flexibiliteit_). 
+
+In open organisaties ziet samenwerking er als volgt uit:
 
 
-* Goals are public and explicit, and people working on projects clearly indicate roles and responsibilities to enhance accountability.
+* Mensen geloven dat samenwerken betere resultaten oplevert.
 
+* Mensen hebben de neiging om vanaf de start samen te werken, in plaats van samenwerking pas toe te voegen nadat afzonderlijke onderdelen van het werk zijn voltooid.
 
-### Inclusivity
+* Mensen zijn geneigd om partners buiten hun directe teams te betrekken bij het uitvoeren van nieuwe projecten.
 
-Open organizations are inclusive. They not only welcome diverse points of view but also implement specific mechanisms for inviting multiple perspectives into dialog wherever and whenever possible. Interested parties and newcomers can begin assisting the organization without seeking express permission from each of its stakeholders (see also _collaboration_). Rules and protocols for participation are clear (see also _transparency_) and operate according to vetted and common standards.
+* Gezamenlijk geproduceerd resultaat is gemakkelijk intern beschikbaar voor anderen, welke hieraan verder kunnen werken.
 
-In open organizations, inclusivity looks like:
+* Gezamenlijk geproduceerd resultaat is extern beschikbaar voor personen buiten de organisatie om – op mogelijk onvoorziene manieren – te gebruiken.
 
-* Technical channels and social norms for encouraging diverse points of view are well-established and obvious.
-
-* Protocols and procedures for participation are clear, widely available, and acknowledged, allowing for constructive inclusion of diverse perspectives.
-
-* The organization features multiple channels and/or methods for receiving feedback in order to accommodate people's preferences.
-
-* Leaders regularly assess and respond to feedback they receive, and cultivate a culture that encourages frequent dialog regarding this feedback.
-
-* Leaders are conscious of voices not present in dialog and actively seek to include or incorporate them.
-
-* People feel a duty to voice opinions on issues relevant to their work or about which they are passionate.
-
-* People work transparently and share materials via common standards and/or agreed-upon platforms that do not prevent others from accessing or modifying them.
-
-### Adaptability
-
-Open organizations are flexible and resilient organizations. Organizational policies and technical apparatuses ensure that both positive and negative feedback loops have a genuine and material effect on organizational operation; participants can control and potentially alter the conditions under which they work. They report frequently and thoroughly on the outcomes of their endeavors (see also _transparency_) and suggest adjustments to collective action based on assessments of these outcomes. In this way, open organizations are fundamentally oriented toward continuous engagement and learning.
-
-In open organizations, adaptability looks like:
-
-* Feedback mechanisms are accessible both to members of the organization and to outside members, who can offer suggestions.
-
-* Feedback mechanisms allow and encourage peers to assist one another without managerial oversight, if necessary.
-
-* Leaders work to ensure that feedback loops genuinely and materially impact the ways people in the organization operate.
-
-* Processes for collective problem solving, collaborative decision making, and continuous learning are in place, and the organization rewards both personal and team learning to reinforce a growth mindset.
-
-* People tend to understand the context for the changes they're making or experiencing.
-
-* People are not afraid to make mistakes, yet projects and teams are comfortable adapting their pre-existing work to project-specific contexts in order to avoid repeated failures.
-
-### Collaboration
-
-Work in an open organization involves multiple parties by default. Participants believe that joint work produces better (more effective, more sustainable) outcomes, and specifically seek to involve others in their efforts (see also _inclusivity_). Products of work in open organizations afford additional enhancement and revision, even by those not affiliated with the organization (see also, _adaptability_).
-
-In open organizations, collaboration looks like:
-
-
-* People tend to believe that working together produces better results.
-
-* People tend to begin work collaboratively, rather than "add collaboration" after they've each completed individual components of work.
-
-* People tend to engage partners outside their immediate teams when undertaking new projects.
-
-* Work produced collaboratively is easily available internally for others to build upon.
-
-* Work produced collaboratively is available externally for creators outside the organization to use in potentially unforeseen ways.
-
-* People can discover, provide feedback on, and join work in progress easily—and are welcomed to do so.
+* Mensen kunnen eenvoudig deelnemen aan en feedback geven op het werk, en zijn ten alle tijden welkom om dit te doen.
 
 ### Community
 
-Open organizations are communal. Shared values and purpose guide participation in open organizations, and these values—more so than arbitrary geographical locations or hierarchical positions—help determine the organization's boundaries and conditions of participation. Core values are clear, but also subject to continual revision and critique, and are instrumental in defining conditions for an organization's success or failure (see also _adaptability_).
+Open organisaties zijn gemeenschappelijk. Gedeelde waarden in open organisaties helpen de grenzen en voorwaarden voor deelname van de organisatie te bepalen. De kernwaarden van de organisatie zijn duidelijk, maar zijn ook onderhevig aan voortdurende herziening en bevorderen het definiëren van omstandigheden voor het succes of falen van een organisatie (zie ook _flexibiliteit_). 
 
-In open organizations, community looks like:
+In open organisaties ziet gemeenschap er als volgt uit: 
 
-* Shared values and principles that inform decision-making and assessment processes are clear and obvious to members.
+* Gedeelde waarden en principes welke beslissings- en beoordelingsprocessen ondersteunen, zijn duidelijk en voor de hand liggend voor alle betrokkenen.
 
-* People feel equipped and empowered to make meaningful contributions to collaborative work.
+* Mensen hebben de juiste middelen en zijn gemachtigd om zinvolle bijdragen te leveren aan gezamenlijke werkzaamheden.
 
-* Leaders mentor others and demonstrate strong accountability to the group by modeling shared values and principles.
+* Leiders begeleiden anderen, en tonen sterke verantwoordelijkheid tegenover het team door gedeelde waarden en principes te stimuleren.
 
-* People have a common language and work together to ensure that ideas do not get "lost in translation," and they are comfortable sharing their knowledge and stories to further the group's work.
+* Mensen snappen elkaar en werken samen om ervoor te zorgen dat ideeën niet verloren gaan door perceptieverschillen, en ze vinden het prettig om hun kennis te delen om het werk van het team te bevorderen.
 
 ## Revision History
 
-Version 2.0  
-Updated April 2017  
-The Open Organization Ambassadors at Opensource.com
+Versie 2.0-NL 
+Bijgewerkt januari 2018
+Geert Booster, SourceOpen
 
 ## License
 
 [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+SourceOpen heeft versie 2.0 (April 2017) welke door The Open Organization Ambassadors (Opensource.com) in de Engelse taal is gepubliceerd, vertaald en aangepast. 
