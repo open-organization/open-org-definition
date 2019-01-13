@@ -1,12 +1,11 @@
-# Open Organization Definition
+# Open Organization Definition (Dutch Translation)
 
 ## About
 
-The Open Organization Ambassadors at Opensource.com use files in this repository to maintain their working definition of "open organization."
-
+SourcerOpen use files in this repository to maintain their Dutch translation of the working definition of "open organization" from The Open Organization Ambassadors at Opensource.com  
 ## Current version
 
-The [current version](https://opensource.com/open-organization/resources/open-org-definition) is:
+The current version is:
 
-2.0  
-April 2016
+2.0-NL 
+January 2019
