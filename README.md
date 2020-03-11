@@ -6,7 +6,7 @@ The Open Organization Ambassadors at Opensource.com use files in this repository
 
 ## Current version
 
-The [current version](https://opensource.com/open-organization/resources/open-org-definition) is:
+The current version is:
 
 2.0  
 April 2016
