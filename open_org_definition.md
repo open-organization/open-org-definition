@@ -1,7 +1,6 @@
 # The Open Organization Definition
 
 ## Preamble
-
 Openness is becoming increasingly central to the ways groups and teams of all sizes are working together to achieve shared goals. And today, the most forward-thinking organizations—whatever their missions—are embracing openness as a necessary orientation toward success. They've seen that openness can lead to:
 
 - **Greater agility**, as members are more capable of working toward goals in unison and with shared vision;
