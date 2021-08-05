@@ -25,7 +25,7 @@ In practice, every open organization likely exemplifies each one of these charac
 That fact makes explaining any one of the characteristics difficult without reference to the others.
 
 ### Transparency
-In open organizations, transparency reigns. As much as possible (and advisable) under applicable laws, open organizations work to make their data and other materials easily accessible to both internal and external participants; they are open for any member to review them when necessary (see also _inclusivity_). Decisions are transparent to the extent that everyone affected by them understands the processes and arguments that led to them; they are open to assessment (see also _collaboration_). Work is transparent to the extent that anyone can monitor and assess a project's progress throughout its development; it is open to observation and potential revision if necessary (see also _adaptability_).
+In open organizations, transparency reigns. As much as possible (and advisable) under applicable laws, open organizations work to make their data and other materials easily accessible to both internal and external participants; they are open for any member to review them when necessary (see also *inclusivity*). Decisions are transparent to the extent that everyone affected by them understands the processes and arguments that led to them; they are open to assessment (see also *collaboration*). Work is transparent to the extent that anyone can monitor and assess a project's progress throughout its development; it is open to observation and potential revision if necessary (see also *adaptability*).
 
 In open organizations, transparency looks like:
 
@@ -37,7 +37,7 @@ In open organizations, transparency looks like:
 - Goals are public and explicit, and people working on projects clearly indicate roles and responsibilities to enhance accountability.
 
 ### Inclusivity
-Open organizations are inclusive. They not only welcome diverse points of view but also implement specific mechanisms for inviting multiple perspectives into dialog wherever and whenever possible. Interested parties and newcomers can begin assisting the organization without seeking express permission from each of its stakeholders (see also _collaboration_). Rules and protocols for participation are clear (see also _transparency_) and operate according to vetted and common standards.
+Open organizations are inclusive. They not only welcome diverse points of view but also implement specific mechanisms for inviting multiple perspectives into dialog wherever and whenever possible. Interested parties and newcomers can begin assisting the organization without seeking express permission from each of its stakeholders (see also *collaboration*). Rules and protocols for participation are clear (see also *transparency*) and operate according to vetted and common standards.
 
 In open organizations, inclusivity looks like:
 
@@ -50,7 +50,7 @@ In open organizations, inclusivity looks like:
 - People work transparently and share materials via common standards and/or agreed-upon platforms that do not prevent others from accessing or modifying them.
 
 ### Adaptability
-Open organizations are flexible and resilient organizations. Organizational policies and technical apparatuses ensure that both positive and negative feedback loops have a genuine and material effect on organizational operation; participants can control and potentially alter the conditions under which they work. They report frequently and thoroughly on the outcomes of their endeavors (see also _transparency_) and suggest adjustments to collective action based on assessments of these outcomes. In this way, open organizations are fundamentally oriented toward continuous engagement and learning.
+Open organizations are flexible and resilient organizations. Organizational policies and technical apparatuses ensure that both positive and negative feedback loops have a genuine and material effect on organizational operation; participants can control and potentially alter the conditions under which they work. They report frequently and thoroughly on the outcomes of their endeavors (see also *transparency*) and suggest adjustments to collective action based on assessments of these outcomes. In this way, open organizations are fundamentally oriented toward continuous engagement and learning.
 
 In open organizations, adaptability looks like:
 
@@ -62,7 +62,7 @@ In open organizations, adaptability looks like:
 - People are not afraid to make mistakes, yet projects and teams are comfortable adapting their pre-existing work to project-specific contexts in order to avoid repeated failures.
 
 ### Collaboration
-Work in an open organization involves multiple parties by default. Participants believe that joint work produces better (more effective, more sustainable) outcomes, and specifically seek to involve others in their efforts (see also _inclusivity_). Products of work in open organizations afford additional enhancement and revision, even by those not affiliated with the organization (see also, _adaptability_).
+Work in an open organization involves multiple parties by default. Participants believe that joint work produces better (more effective, more sustainable) outcomes, and specifically seek to involve others in their efforts (see also *inclusivity*). Products of work in open organizations afford additional enhancement and revision, even by those not affiliated with the organization (see also, *adaptability*).
 
 In open organizations, collaboration looks like:
 
@@ -74,7 +74,7 @@ In open organizations, collaboration looks like:
 - People can discover, provide feedback on, and join work in progress easily—and are welcomed to do so.
 
 ### Community
-Open organizations are communal. Shared values and purpose guide participation in open organizations, and these values—more so than arbitrary geographical locations or hierarchical positions—help determine the organization's boundaries and conditions of participation. Core values are clear, but also subject to continual revision and critique, and are instrumental in defining conditions for an organization's success or failure (see also _adaptability_).
+Open organizations are communal. Shared values and purpose guide participation in open organizations, and these values—more so than arbitrary geographical locations or hierarchical positions—help determine the organization's boundaries and conditions of participation. Core values are clear, but also subject to continual revision and critique, and are instrumental in defining conditions for an organization's success or failure (see also *adaptability*).
 
 In open organizations, community looks like:
 
