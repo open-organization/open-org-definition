@@ -1,87 +1,93 @@
 # 开放式组织定义
 
 ## 前言
-Openness is becoming increasingly central to the ways groups and teams of all sizes are working together to achieve shared goals. And today, the most forward-thinking organizations—whatever their missions—are embracing openness as a necessary orientation toward success. They've seen that openness can lead to:
+在各种规模的群体和团队为实现共同目标而开展合作的方式中，开放正变得越来越重要。如今，最具前瞻性的组织——无论其使命如何——都将开放作为迈向成功的必要方向。他们已经看到，开放可以带来：
 
-- **更加敏捷**, as members are more capable of working toward goals in unison and with shared vision;
-- **更快创新**, as ideas from both inside and outside the organization receive more equitable consideration and rapid experimentation, and;
-- **增强参与**, as members clearly see connections between their particular activities and an organization's overarching values, mission, and spirit.
+- **更加敏捷**, 因为成员更有能力以共同愿景齐心协力实现目标；
+- **更快创新**, 因为来自组织内外的想法都能得到更公平的考虑和更快速的试验，以及；
+- **增强参与**, 因为成员们清楚地看到他们的具体活动与组织的总体价值观、使命和精神之间的联系。
 
-But openness is fluid. Openness is multifaceted. Openness is contested.
+但开放是不稳定的，是多层面的，是会带来争议的。
 
-While every organization is different—and therefore every example of an open organization is unique—we believe these five characteristics serve as the basic conditions for openness in most contexts:
+每一个组织都不尽相同，因此每一个开放式组织的案例都是独一无二的，但我们相信，这五大特征在大多数情况下都是开放性的基本条件：
 
-- 透明性
-- 包容性
+- 透明性 
+- 包容性 
 - 适应性
 - 协作性
 - 社区性
 
 ## 开放式组织的特征
-Open organizations take many shapes. Their sizes, compositions, and missions vary. But the following five characteristics are the hallmarks of any open organization.
+开放式组织有多种形式，它们的规模、组成和使命各不相同，但下文的五个特征是所有开放式组织的共同标志。
 
-In practice, every open organization likely exemplifies each one of these characteristics differently, and to a greater or lesser extent. Moreover, some organizations that don't consider themselves open organizations might nevertheless embrace a few of them. But truly open organizations embody them all—and they connect them in powerful and productive ways.
+在实践中，每个开放式组织都可能或多或少地以不同的方式体现这些特征中的每一个。此外，一些不认为自己是开放式组织的组织仍然可能拥抱其中的一些特征。但真正开放的组织体现了所有这些特征，并且以强大而富有成效的方式将它们联系起来。
 
-That fact makes explaining any one of the characteristics difficult without reference to the others.
+这一事实使得在解释任何一个特征时都很难脱离其他特征。
 
 ### 透明性
-In open organizations, transparency reigns. As much as possible (and advisable) under applicable laws, open organizations work to make their data and other materials easily accessible to both internal and external participants; they are open for any member to review them when necessary (see also *inclusivity*). Decisions are transparent to the extent that everyone affected by them understands the processes and arguments that led to them; they are open to assessment (see also *collaboration*). Work is transparent to the extent that anyone can monitor and assess a project's progress throughout its development; it is open to observation and potential revision if necessary (see also *adaptability*).
+在开放式组织中，透明性占主导地位。开放式组织在适用法律下尽可能（且建议）努力使内部和外部参与者能够轻松访问其数据和其他材料；必要时任何成员都可以对其进行审查（另请参阅*包容性*）。决策是透明的，其程度要达到受决策影响的每个人都了解做出决策的过程和依据；他们愿意接受评估（另见*协作性*）。工作是透明的，其程度要达到任何人都可以在整个开发过程中监控和评估项目的进度；必要时，它可以接受观察和可能的修订（另见*适应性*）。
 
-In open organizations, transparency looks like:
+在开放式组织中，透明性是这样的：
 
-- Everyone working on a project or initiative has access to all pertinent materials by default.
-- People willingly disclose their work, invite participation on projects before those projects are complete and/or "final," and respond positively to request for additional details.
-- People affected by decisions can access and review the processes and arguments that lead to those decisions, and they can comment on and respond to them.
-- Leaders encourage others to tell stories about both their failures and their successes without fear of repercussion; associates are forthcoming about both.
-- People value both success and failures for the lessons they provide.
-- Goals are public and explicit, and people working on projects clearly indicate roles and responsibilities to enhance accountability.
+- 默认情况下，从事项目或计划的所有人都可以访问所有相关材料。
+- 人们愿意披露他们的工作，在项目完成和/或“终结”之前邀请参与项目，并积极回应要求提供更多详细信息的请求。
+- 受到决策影响的人可以访问和审查做出这些决策的过程和依据，并且可以对其进行评论和回应。
+- 领导者鼓励他人讲述自己的失败和成功故事，而不必担心受到影响；同僚们也会主动讲述这两方面的故事。
+- 人们对于成功和失败都很重视，因为它们都能提供经验教训。
+- 目标公开且明确，项目工作人员有明确的角色和责任，以加强问责制。
+
 
 ### 包容性
-Open organizations are inclusive. They not only welcome diverse points of view but also implement specific mechanisms for inviting multiple perspectives into dialog wherever and whenever possible. Interested parties and newcomers can begin assisting the organization without seeking express permission from each of its stakeholders (see also *collaboration*). Rules and protocols for participation are clear (see also *transparency*) and operate according to vetted and common standards.
+开放式组织具有包容性。他们不仅欢迎不同的观点，而且还实施特定的机制，随时随地邀请多种观点进行对话。感兴趣的各方和新人可以开始为组织提供帮助，而无需寻求每个利益相关者的明确许可（另请参阅*协作性*）。参与规则和协议很明确（另见*透明性*），并根据经过审查的通用标准运作。
 
-In open organizations, inclusivity looks like:
+在开放式组织中，包容性是这样的：
 
-- Technical channels and social norms for encouraging diverse points of view are well-established and obvious.
-- Protocols and procedures for participation are clear, widely available, and acknowledged, allowing for constructive inclusion of diverse perspectives.
-- The organization features multiple channels and/or methods for receiving feedback in order to accommodate people's preferences.
-- Leaders regularly assess and respond to feedback they receive, and cultivate a culture that encourages frequent dialog regarding this feedback.
-- Leaders are conscious of voices not present in dialog and actively seek to include or incorporate them.
-- People feel a duty to voice opinions on issues relevant to their work or about which they are passionate.
 - People work transparently and share materials via common standards and/or agreed-upon platforms that do not prevent others from accessing or modifying them.
+- 鼓励不同观点的技术渠道和社会规范是既定的，也是显而易见的。
+- 参与协议和程序清晰、广泛可用且得到认可，允许建设性地采纳不同观点。
+- 组织具有多种接收反馈的渠道和/或方法，以适应人们的偏好。
+- 领导者定期评估和回应他们收到的反馈，并培养一种鼓励就这些反馈进行经常性对话的文化。
+- 领导者意识到对话中没有出现的声音，并积极寻求将其纳入或融入对话。
+- 人们感到有责任就与其工作相关或他们热衷的问题发表意见。
+- 人们以透明的方式开展工作，通过共同标准和/或商定的平台共享资料，不妨碍他人访问或修改资料。
+
 
 ### 适应性
-Open organizations are flexible and resilient organizations. Organizational policies and technical apparatuses ensure that both positive and negative feedback loops have a genuine and material effect on organizational operation; participants can control and potentially alter the conditions under which they work. They report frequently and thoroughly on the outcomes of their endeavors (see also *transparency*) and suggest adjustments to collective action based on assessments of these outcomes. In this way, open organizations are fundamentally oriented toward continuous engagement and learning.
+开放式组织是灵活且弹性的组织。组织政策和技术设施确保正反馈循环和负反馈循环对组织运作产生真正的实质性影响；参与者可以控制并可能改变他们的工作条件。他们经常全面汇报其努力的结果（另见*透明度*），并根据对这些结果的评估建议调整集体行动。通过这种方式，开放式组织从根本上面向持续参与和学习。
 
-In open organizations, adaptability looks like:
 
-- Feedback mechanisms are accessible both to members of the organization and to outside members, who can offer suggestions.
-- Feedback mechanisms allow and encourage peers to assist one another without managerial oversight, if necessary.
-- Leaders work to ensure that feedback loops genuinely and materially impact the ways people in the organization operate.
-- Processes for collective problem solving, collaborative decision making, and continuous learning are in place, and the organization rewards both personal and team learning to reinforce a growth mindset.
-- People tend to understand the context for the changes they're making or experiencing.
-- People are not afraid to make mistakes, yet projects and teams are comfortable adapting their pre-existing work to project-specific contexts in order to avoid repeated failures.
+在开放式组织中，适应性是这样的：
+
+- 组织的内外部成员都可以通过反馈机制提供建议。
+- 如有必要，反馈机制允许并鼓励同行在没有管理监督的情况下互相帮助。
+- 领导者要努力确保反馈循环真正对组织内人员的工作方式产生实质性影响。
+- 制定了集体解决问题、协作决策和持续学习的流程，组织奖励个人和团队学习，以强化成长型思维。
+- 人们倾向于了解他们正在进行或正在经历的变革的背景。
+- 人们并不害怕犯错误，但项目和团队愿意根据项目的具体情况，自如地调整现有的工作，以避免重复失败。
 
 ### 协作性
-Work in an open organization involves multiple parties by default. Participants believe that joint work produces better (more effective, more sustainable) outcomes, and specifically seek to involve others in their efforts (see also *inclusivity*). Products of work in open organizations afford additional enhancement and revision, even by those not affiliated with the organization (see also, *adaptability*).
+开放式组织中的工作默认涉及多方。参与者相信协同工作会产生更好（更有效、更可持续）的成果，并特别寻求让其他人参与他们的工作（另见*包容性*）。开放式组织中的工作产品可​​以提供额外的增强和修订，哪怕是来自那些不隶属于该组织的人（另请参阅*适应性*）。
 
-In open organizations, collaboration looks like:
+在开放式组织中，协作性是这样的：
 
-- People tend to believe that working together produces better results.
-- People tend to begin work collaboratively, rather than "add collaboration" after they've each completed individual components of work.
-- People tend to engage partners outside their immediate teams when undertaking new projects.
-- Work produced collaboratively is easily available internally for others to build upon.
-- Work produced collaboratively is available externally for creators outside the organization to use in potentially unforeseen ways.
-- People can discover, provide feedback on, and join work in progress easily—and are welcomed to do so.
+- 人们倾向于相信，合作努力会产生更好的结果。
+- 人们倾向于以合作的方式开始工作，而不是在各自完成单项工作后再“增加合作”。
+- 在开展新项目时，人们倾向于让直属团队之外的合作伙伴参与进来。
+- 协作完成的工作很容易在内部供其他人借鉴。
+- 协作完成的作品可供组织外部的创作者，让他们以未预料到的方式使用。
+- 人们可以很容易地发现、反馈和加入正在进行的工作，并且欢迎这样做。
+
 
 ### 社区性
-Open organizations are communal. Shared values and purpose guide participation in open organizations, and these values—more so than arbitrary geographical locations or hierarchical positions—help determine the organization's boundaries and conditions of participation. Core values are clear, but also subject to continual revision and critique, and are instrumental in defining conditions for an organization's success or failure (see also *adaptability*).
+开放式组织是公共的。共同的价值观和目标是参与开放式组织的指南，这些价值观比任意地理位置或等级职位更有助于确定组织的边界和参与条件。核心价值观很明确，但也会受到不断的修订和评判，并在确定组织成败的条件方面发挥重要作用（另请参阅*适应性*）。
 
-In open organizations, community looks like:
+在开放式组织中，社区是这样的：
 
-- Shared values and principles that inform decision-making and assessment processes are clear and obvious to members.
-- People feel equipped and empowered to make meaningful contributions to collaborative work.
-- Leaders mentor others and demonstrate strong accountability to the group by modeling shared values and principles.
-- People have a common language and work together to ensure that ideas do not get "lost in translation," and they are comfortable sharing their knowledge and stories to further the group's work.
+- 为决策和评估过程提供依据的共同价值观和原则对成员来说是清晰明确的。
+- 人们感到自己有能力为协作工作做出有意义的贡献。
+- 领导者通过树立共同的价值观和原则来指导他人，并对团队负责。
+- 人们拥有共同语言并共同努力，以确保想法不会“在翻译中丢失”，并且他们乐于分享自己的知识和故事，以推进团队的工作。
+
 
 ## 修订记录
 版本 2.0  
